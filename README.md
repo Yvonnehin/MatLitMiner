@@ -11,7 +11,7 @@ MatLitMiner is a Python-based text mining tool designed to extract valuable info
 ## Installation Guide
  **Clone the Repository**
    ```bash
-   git clone https://github.com/YvonneHin/MatLitMiner.git
+   git clone https://github.com/YvonneHin/Superalloy-MatLitMiner.git
    cd MatLitMiner
    ```
    
