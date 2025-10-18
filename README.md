@@ -1,4 +1,4 @@
-# MatLitMiner: Materials Literature Mining Tool
+# Superalloy-MatLitMiner: Materials Literature Mining Tool
 
 ## Project Introduction
 MatLitMiner is a Python-based text mining tool designed to extract valuable information from materials science literature, with a particular focus on single crystals and high-temperature alloys. It aims to help researchers quickly obtain key insights, thereby enhancing the efficiency of scientific research.
